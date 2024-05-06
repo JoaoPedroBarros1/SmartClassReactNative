@@ -1,5 +1,0 @@
-flask
-flask-sqlalchemy
-mysqlclient
-flask-bcrypt
-pyjwt
