@@ -1,0 +1,4 @@
+Criei simplesmente para criar as pastas certinhas.
+
+Apague apenas quando você for adicionar um arquivo,
+se você der o git push sem nenhum arquivo na pasta, ela é apagada.
